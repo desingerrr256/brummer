@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>DOBRODOŠLI, uđi slobodno</title>
+   <style>
+      .container {
+         display: flex;
+         align-items: center;
+         gap: 20px;
+      }
+      .container img {
+         max-width: 300px;
+         height: auto;
+      }
+      .video-container {
+         display: flex;
+      }
+      .video-container iframe {
+         vertical-align: top;
+      }
+      .video-container ul {
+         margin-left: 40px;
+      }
+   </style>
+</head>
+<body style="background-color:#f7b5d4;">
+ <h1 style="background-color:#f63dce; text-align:center;">UĐITE SA NAMA U UM LEPOG LUKE</h1>
+ <div class="container">
+   <div>
+      <p><strong>Na fotorafiji sa desne strane možemo uočiti jednog divnog i pametnog momka, poznatu globalnu zvijedu kao i jednog idola današnje omladine. Taj lepi momak se zaista zove Lepi i to Luka. Zato pođite sa nama i naučite nešto novo o ovom globalnom fenomenu, njegovim skandalima kao i uspjesima.</strong></p>
+      <p style=" color:palevioletred;"><strong> Prvo što smo mogli zaključiti jeste da je njegovo ime lijepo i da govori istinu o ovom mladiću, sada hajmo preći na nešto zanimljivije.</strong></p>
+      <a href="https://youtu.be/3DYtL1ccx5A?si=MEVEMGpQ-vZn-Ny0" target="_blank">MORAŠ POGLEDATI OVAJ VIDEO GDJE LUKA PREPRIČAVA KRVOLOČNU SVAĐU IZMEĐU NJEGA I DALILE</a>
+      <p>Kliknite na video link iznad teksta i za svoje oči vidite prvu zabilježenu svađu izmedju Luke i poznate influenserke i kraljice Zadruge Dalile. Svađu smo mogli zateći lajv na njihovim TikTok kanalima kao i na YouTube-u kratko posle samog događaja, ako još niste vidjeli POŽURITE.</p>
+   </div>
+   <img src="lepi luka.jpeg" alt="Lepi Luka">
+ </div>
+ <p style="color:palevioletred;"><strong>Kada smo malo dublje zaronili u Lukin svijet saznali smo da je jako nadaren pjevač, da se u ranim danima takmičio u "Pink zvjezdicama" gdje je osvojio drugo mjesto i da se bavio kafanskim pjevanjem za džeparac. Našli smo jedan od rijetkih primijera gdje nam Lepi pokazuje svoj skriveni talent.</strong></p>
+ <div class="video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/TFshPqk9zTs" frameborder="0" allowfullscreen></iframe>
+   <ul>Sada lada ste malo više upućeni u njegov život evo vam neoliko zanimljivosti o njemu:
+     <li>Rođen je 1999 godine. u Beogradu</li>
+     <li>Prvi put je postao poznat 2018. godine kad aje učestovao u takmičenju Pink zvjezdice.</li>
+     <li>Učestovao je i u rijalitiju Zadruga 5, gdje je stekao masovnu popularnost.</li>
+     <li>Njegov stil muzike je kombinacija Pop-a inarodne muzike što je privuklo mnogo pažnje</li>
+   </ul>
+   <p style="color:palevioletred;"><strong>Hvala Vam na pažnji, dođite nam i sledeće sedmice da se upoznamo sa drugom zvjezdom.</strong></p>
+ </div>
+</body>
+</html>
+
+
+
